@@ -1,11 +1,287 @@
 # Catalog Of Archival Resilence
 
-https://www.notion.so/Catalog-Of-Archival-Resilence-8a46df8c806d46ac82a72ad8cd045ec0
-
-
-# Catalog Of Archival Resilence
-
 Tags: ARCHIVE
+
+- **Gaming Research**
+    - Questions to ask at IISG and General
+
+        Check if someone knows about the movement
+
+        — Some bystanders have heard of it, as far as the receptionist knew nobody knew where it came from.
+
+        Why does the archive have this collection?
+
+        — Not a specific answer, could be added with other collections.
+
+        *Ik vermoed daarom dat veel hiervan direct aan het IISG is overgedragen, misschien door een loge, of door individuele leden. Sommigen van de vele speldjes kunnen ons ook nog langs een andere weg bereikt hebben, bijvoorbeeld via het persoonsarchief van iemand die toevallig lid was, of als losse schenking. Om privacyredenen vermelden we dit vaak niet. — IISG*
+
+        Why does this needs to be archived?
+
+        — No clear answer, something along the lines of it being an old organisation, which had an impact/mission in the history.
+
+        Framing a position towards it.
+
+        Strip away the meaning of the organisation —> Abstraction
+
+        Why do I want to make it resilience?
+
+        What is the relevance of this topic against other topics? Or is it in the object itself?
+
+        Look at the Metadata.
+
+        What is the social context, which is not in the archive, related to the city, how does it look like back then?
+
+        What kind of game is it?
+
+        Commercial, propaganda
+
+        —Mythology can prolong the lifespan of an object or movement.
+
+    Gaming as a connection with others (bindingsmiddel)
+
+    Gaming as an addiction
+
+    Useless hobby? Or ways to comprehend the real world/trauma
+
+    Desperate to escape the unrelenting nature of a corporial existence
+
+    [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
+
+    - Questions and stuff from 17/20feb
+
+        Analysis of the medium
+
+        Game can be a system
+
+        Evidence based policy
+
+        Look from within the artefact
+
+        Material aspect/Production
+
+        Social Context is less important
+
+        What is the essence of the object
+
+        What kind of game is it: Commercial, propaganda, etc...
+
+        How does your artefact relate to a topic?
+
+        What is my position in this topic?
+
+        What is their agenda?
+
+        Active communicating(big production)
+
+        Why do I want to make it resiliance
+
+        What is the relevance of this topic against other topics?
+
+        Or is it in the object itself?
+
+        Abstinence is their topic
+
+        What is mine towards this topic
+
+        Look at the meta data
+
+        What is the social context, which is not in the archive, related to the city, how did it look back then?
+
+        How does the game function in the real world?
+
+        Predefine a topic
+
+        What are the first things I think of?
+
+        What would you do with your object if the building caught fire?
+
+    Gaming as a way to spread your ideals/propaganda
+
+    Gaming as a way of transporting your propaganda
+
+    # Bingo Research (analysis of the medium)
+
+    ## What is Bingo?
+
+    A game which dates back to 1530 in Italy, the standardised version dates back to 1920's America.
+
+    In the United States, Bingo is a game of chance in which each player matches numbers printed in different arrangements on cards which the numbers the game host (caller) draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play.
+
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png)
+
+    [Bingo (American version)](https://en.wikipedia.org/wiki/Bingo_(American_version))
+
+    > Bingo is often used as an instructional tool in American schools and in teaching English as a foreign language in many countries. Typically, the numbers are replaced with beginning reader words, pictures, or unsolved math problems. Custom bingo creation programs now allow teachers and parents to create bingo cards using their own content.
+
+    Bingo as a teaching tool.
+
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png)
+
+    > In the US, the game is primarily staged by churches or charity organizations. Their legality and stakes vary by state regulation. In some states, bingo halls are rented out to sponsoring organizations, and such halls often run games almost every day. Church-run games, however, are normally weekly affairs held on the church premises. These games are usually played for modest stakes, although the final game of a session is frequently a coverall game that offers a larger jackpot prize for winning within a certain quantity of numbers called, and a progressive jackpot is one that may increase per session until it is won.
+
+    Connection to International Organisation of Good Templars, which can be compared to a church or charity organisation, they could use it to get some extra income for the organisation.
+
+    > Bingo has gone beyond a fundraising role and is often featured in bars and nightclubs as a social and entertainment event, attracting a loyal following of regular players. Many venues promote a bingo event to attract customers at off-peak times, such as weeknights and Sundays, which are traditionally slower for such businesses. The games are called by drag and non-drag hosts alike and often include ancillary activities such as cabaret shows, contests and other themed activities that add interest and encourage audience participation. Customers are invited to play for a chance to win cash and other prizes.
+
+    Therefor this game can organise a sense of unity and community between followers of the IOoGT. A method of bonding.
+
+    ## Kienspel(Dutch)
+
+    My own view on Bingo: in Dutch culture it is mainly used as a game to socialise and entertain elderly people, you often see Bingo nights in care houses.
+
+    ## What is the purpose of this game and why would the "International Organisation of Good Templars" make use of it?
+
+    There are multiple purposes of Bingo, but my guess at the purpose of Bingo within the IOoGT is to create a cash flow income to help them spread their message in a better way. Also to create a community, a reason to get together to form a group, so a method of bonding between ints followers.
+
+    ## Intersting specifications in Bingo/Games:
+
+    Patterns
+
+    RNG
+
+    [RNG or random number generator: the reality about luck in video games](https://aldelaro5.wordpress.com/2016/05/16/rng-or-random-number-generator-the-reality-about-luck-in-video-games/)
+
+    [Are Random Number Generators Really Random?](https://www.knowtherng.com/are-random-number-generators.html)
+
+    [Is the RNG wholly random, or does it have patterns?](https://www.reddit.com/r/darkestdungeon/comments/36q8de/is_the_rng_wholly_random_or_does_it_have_patterns/)
+
+    [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
+
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png)
+
+    ### Propaganda in video games
+
+    [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
+
+    The person on the podcast tells how all of his life he is forced by big shooter games to see his own nation as terrorists. In the game the metal gear solid which is set in afghanistan he goes in game to the place he used to live and finds his father and brother.
+
+    For instance Epic Games made a statement they do not want to convey political messages
+
+    [Seven video games that also serve as propaganda](https://caravanmagazine.in/vantage/seven-video-games-also-serve-propaganda)
+
+    Games as a tool for recruiting for the army and spreading negative message about other nationalities.
+
+    > America’s Army was released by the US Army on 4 July 2002 and, up until now, 41 versions of the game have been released in total, all financed by the US government and available for free download. The game is a recruitment tool, and each version has two parts: Operations, in which the player battles opponents in a first-person shooter mode, and Soldiers, in which the player advances up the various ranks.
+
+    [Video Games Can Be a Powerful Force for Propaganda](https://medium.com/war-is-boring/video-games-can-be-a-powerful-force-for-propaganda-983d48da702b)
+
+    > Video games are an industry worth tens of billions of dollars. These interactive games make more money than Hollywood and the music industry combined. Video games can be great fun and even great art, but they can also make for great propaganda.
+
+    [](https://pcijstoryproject.org/exploring-the-use-of-video-games-as-propaganda-87833eede6e4)
+
+    [Metal Wolf Chaos](https://en.wikipedia.org/wiki/Metal_Wolf_Chaos)
+
+    > Metal Wolf Chaos is a third-person shooter video game developed and published by FromSoftware. It was released for the Xbox exclusively in Japan in 2004. The player takes on the role of fictional President of the United States Michael Wilson piloting a mech to battle the rebelling military led by fictional Vice President Richard Hawk.
+
+    [The 10 political games everyone should play](https://www.theguardian.com/technology/gamesblog/2006/oct/26/tenseriousgam)
+
+    Multiple games with political statements.
+
+    Abstinence
+
+    **The urgency of preserving this object**
+
+    Not because of this object, but because of its topic.
+
+    - Streamers
+
+        Streamers I sometimes check out, they have a big followers base. They have a chatbox where all the people who follow their stream can chat together, this is most of the times a big stream of messages.  
+
+        ![Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg](Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg)
+
+        ![Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg](Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg)
+
+        ![Catalog%20Of%20Archival%20Resilence/download.jpeg](Catalog%20Of%20Archival%20Resilence/download.jpeg)
+
+    John rafman codes of horror
+
+    [https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
+
+    - Notes/questions 9 March
+
+        What it is what Im doing?
+
+        Experiment nr1/Transcoding nr1
+
+        Coding number chance calculator?
+
+        Talk with my grandmother about Kienspellen
+
+    - Unity classes
+
+        [https://www.youtube.com/watch?v=odKtPBsyFnw](https://www.youtube.com/watch?v=odKtPBsyFnw)
+
+        [https://www.youtube.com/watch?v=MX_KK7u53As](https://www.youtube.com/watch?v=MX_KK7u53As)
+
+        [https://www.youtube.com/watch?v=7K2SMZQRKnw](https://www.youtube.com/watch?v=7K2SMZQRKnw)
+
+    - Alternative Artefact — Boardgames with possible ties to propaganda
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
+
+        I found a boardgame which portrays stalin, the metadata mentions Czech republic, so I am continuing my propaganda in boardgame research with this piece. [https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.18.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.18.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.27.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.27.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.46.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.46.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.55.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.55.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.04.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.04.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.14.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.14.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.23.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.23.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.32.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.32.png)
+
+        [https://search.iisg.amsterdam/Record/789143](https://search.iisg.amsterdam/Record/789143)
+
+        [https://search.iisg.amsterdam/Record/1254784](https://search.iisg.amsterdam/Record/1254784)
+
+        [https://search.iisg.amsterdam/Record/1021490](https://search.iisg.amsterdam/Record/1021490)
+
+        [https://search.iisg.amsterdam/Record/840544](https://search.iisg.amsterdam/Record/840544)
+
+        [https://search.iisg.amsterdam/Record/831745](https://search.iisg.amsterdam/Record/831745)
+
+        [https://search.iisg.amsterdam/Record/1247045](https://search.iisg.amsterdam/Record/1247045)
+
+        [https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
+
+        [https://search.iisg.amsterdam/Record/1037521](https://search.iisg.amsterdam/Record/1037521)
+
+        [https://search.iisg.amsterdam/Record/1037527](https://search.iisg.amsterdam/Record/1037527)
+
+    - Russia, Stalin and Propaganda
+
+        [Stalin's lifehacks: How to ruthlessly take power and get away with it](https://www.rbth.com/history/330225-joseph-stalin-rise-power-politics)
+
+        [Stalin rubble throws into focus Czechs' 20th-century struggles](https://www.theguardian.com/world/2018/sep/30/stalin-rubble-throws-into-focus-czechs-20th-century-struggles)
+
+        [List of statues of Stalin](https://en.wikipedia.org/wiki/List_of_statues_of_Stalin)
+
+        [Propaganda in the Soviet Union](https://en.wikipedia.org/wiki/Propaganda_in_the_Soviet_Union)
+
+        [Propaganda through media](https://en.wikipedia.org/wiki/Propaganda_through_media)
+
+        [How was propaganda used in World War One?](https://www.bbc.co.uk/bitesize/topics/zqhyb9q/articles/zhw3jhv)
+
+        [Visual Essay: The Impact of Propaganda](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-6/visual-essay-impact-propaganda)
+
+        [Joseph Stalin & Soviet Propaganda: Techniques & Examples - Video & Lesson Transcript | Study.com](https://study.com/academy/lesson/joseph-stalin-soviet-propaganda-techniques-examples.html)
+
+        **What forms of propaganda did Stalin use?**
+
+        Soviet **propaganda** under **Stalin** was dominated by socialist realism, a particular **form of propaganda** disguised as art that glorified the Soviet state and party, its workers, and depicted scenes from everyday life.
+
+        Statues of Stalin
+
+        I am looking for a story to visualise in my game about propaganda and Stalin.
+
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_13.52.43.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_13.52.43.png)
 
 ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_12.16.29.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_12.16.29.png)
 
@@ -16,7 +292,7 @@ Tags: ARCHIVE
 
         [https://en.wikipedia.org/wiki/International_Organisation_of_Good_Templars](https://en.wikipedia.org/wiki/International_Organisation_of_Good_Templars)
 
-        The state of the Teutonic order 1410?Radek?
+        The state of the Teutonic order 1410 ?Radek?
 
     - Stumbled on Topic
 
@@ -39,644 +315,11 @@ Tags: ARCHIVE
 
         ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.22.31.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.22.31.png)
 
-        - **Gaming Research**
-            - Questions to ask at IISG and General
+        - IOGT —> Movendi International
 
-                Check if someone knows about the movement
+            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.21.05.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.21.05.png)
 
-                — Some bystanders have heard of it, as far as the receptionist knew nobody knew where it came from.
-
-                Why does the archive have this collection?
-
-                — Not a specific answer, could be added with other collections.
-
-                *Ik vermoed daarom dat veel hiervan direct aan het IISG is overgedragen, misschien door een loge, of door individuele leden. Sommigen van de vele speldjes kunnen ons ook nog langs een andere weg bereikt hebben, bijvoorbeeld via het persoonsarchief van iemand die toevallig lid was, of als losse schenking. Om privacyredenen vermelden we dit vaak niet. — IISG*
-
-                Why does this needs to be archived?
-
-                — No clear answer, something along the lines of it being an old organisation, which had an impact/mission in the history.
-
-                Framing a position towards it.
-
-                Strip away the meaning of the organisation —> Abstraction
-
-                Why do I want to make it resilience?
-
-                What is the relevance of this topic against other topics? Or is it in the object itself?
-
-                Look at the Metadata.
-
-                What is the social context, which is not in the archive, related to the city, how does it look like back then?
-
-                What kind of game is it?
-
-                Commercial, propaganda
-
-                —Mythology can prolong the lifespan of an object or movement.
-
-            Gaming as a connection with others (bindingsmiddel)
-
-            Gaming as an addiction
-
-            Useless hobby? Or ways to comprehend the real world/trauma
-
-            Desperate to escape the unrelenting nature of a corporial existence
-
-            [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
-
-            - Questions and stuff from 17/20feb
-
-                Analysis of the medium
-
-                Game can be a system
-
-                Evidence based policy
-
-                Look from within the artefact
-
-                Material aspect/Production
-
-                Social Context is less important
-
-                What is the essence of the object
-
-                What kind of game is it: Commercial, propaganda, etc...
-
-                How does your artefact relate to a topic?
-
-                What is my position in this topic?
-
-                What is their agenda?
-
-                Active communicating(big production)
-
-                Why do I want to make it resiliance
-
-                What is the relevance of this topic against other topics?
-
-                Or is it in the object itself?
-
-                Abstinence is their topic
-
-                What is mine towards this topic
-
-                Look at the meta data
-
-                What is the social context, which is not in the archive, related to the city, how did it look back then?
-
-                How does the game function in the real world?
-
-                Predefine a topic
-
-                What are the first things I think of?
-
-                What would you do with your object if the building caught fire?
-
-            Gaming as a way to spread your ideals/propaganda
-
-            Gaming as a way of transporting your propaganda
-
-            # Bingo Research (analysis of the medium)
-
-            ## What is Bingo?
-
-            A game which dates back to 1530 in Italy, the standardised version dates back to 1920's America.
-
-            In the United States, Bingo is a game of chance in which each player matches numbers printed in different arrangements on cards which the numbers the game host (caller) draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play.
-
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.41.png)
-
-            [Bingo (American version)](https://en.wikipedia.org/wiki/Bingo_(American_version))
-
-            > Bingo is often used as an instructional tool in American schools and in teaching English as a foreign language in many countries. Typically, the numbers are replaced with beginning reader words, pictures, or unsolved math problems. Custom bingo creation programs now allow teachers and parents to create bingo cards using their own content.
-
-            Bingo as a teaching tool.
-
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.40.33.png)
-
-            > In the US, the game is primarily staged by churches or charity organizations. Their legality and stakes vary by state regulation. In some states, bingo halls are rented out to sponsoring organizations, and such halls often run games almost every day. Church-run games, however, are normally weekly affairs held on the church premises. These games are usually played for modest stakes, although the final game of a session is frequently a coverall game that offers a larger jackpot prize for winning within a certain quantity of numbers called, and a progressive jackpot is one that may increase per session until it is won.
-
-            Connection to International Organisation of Good Templars, which can be compared to a church or charity organisation, they could use it to get some extra income for the organisation.
-
-            > Bingo has gone beyond a fundraising role and is often featured in bars and nightclubs as a social and entertainment event, attracting a loyal following of regular players. Many venues promote a bingo event to attract customers at off-peak times, such as weeknights and Sundays, which are traditionally slower for such businesses. The games are called by drag and non-drag hosts alike and often include ancillary activities such as cabaret shows, contests and other themed activities that add interest and encourage audience participation. Customers are invited to play for a chance to win cash and other prizes.
-
-            Therefor this game can organise a sense of unity and community between followers of the IOoGT. A method of bonding.
-
-            ## Kienspel(Dutch)
-
-            My own view on Bingo: in Dutch culture it is mainly used as a game to socialise and entertain elderly people, you often see Bingo nights in care houses.
-
-            ## What is the purpose of this game and why would the "International Organisation of Good Templars" make use of it?
-
-            There are multiple purposes of Bingo, but my guess at the purpose of Bingo within the IOoGT is to create a cash flow income to help them spread their message in a better way. Also to create a community, a reason to get together to form a group, so a method of bonding between ints followers.
-
-            ## Intersting specifications in Bingo/Games:
-
-            Patterns
-
-            RNG
-
-            [RNG or random number generator: the reality about luck in video games](https://aldelaro5.wordpress.com/2016/05/16/rng-or-random-number-generator-the-reality-about-luck-in-video-games/)
-
-            [Are Random Number Generators Really Random?](https://www.knowtherng.com/are-random-number-generators.html)
-
-            [Is the RNG wholly random, or does it have patterns?](https://www.reddit.com/r/darkestdungeon/comments/36q8de/is_the_rng_wholly_random_or_does_it_have_patterns/)
-
-            [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
-
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png)
-
-            ### Propaganda in video games
-
-            [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
-
-            The person on the podcast tells how all of his life he is forced by big shooter games to see his own nation as terrorists. In the game the metal gear solid which is set in afghanistan he goes in game to the place he used to live and finds his father and brother.
-
-            For instance Epic Games made a statement they do not want to convey political messages
-
-            [Seven video games that also serve as propaganda](https://caravanmagazine.in/vantage/seven-video-games-also-serve-propaganda)
-
-            Games as a tool for recruiting for the army and spreading negative message about other nationalities.
-
-            > America’s Army was released by the US Army on 4 July 2002 and, up until now, 41 versions of the game have been released in total, all financed by the US government and available for free download. The game is a recruitment tool, and each version has two parts: Operations, in which the player battles opponents in a first-person shooter mode, and Soldiers, in which the player advances up the various ranks.
-
-            [Video Games Can Be a Powerful Force for Propaganda](https://medium.com/war-is-boring/video-games-can-be-a-powerful-force-for-propaganda-983d48da702b)
-
-            > Video games are an industry worth tens of billions of dollars. These interactive games make more money than Hollywood and the music industry combined. Video games can be great fun and even great art, but they can also make for great propaganda.
-
-            [](https://pcijstoryproject.org/exploring-the-use-of-video-games-as-propaganda-87833eede6e4)
-
-            [Metal Wolf Chaos](https://en.wikipedia.org/wiki/Metal_Wolf_Chaos)
-
-            > Metal Wolf Chaos is a third-person shooter video game developed and published by FromSoftware. It was released for the Xbox exclusively in Japan in 2004. The player takes on the role of fictional President of the United States Michael Wilson piloting a mech to battle the rebelling military led by fictional Vice President Richard Hawk.
-
-            [The 10 political games everyone should play](https://www.theguardian.com/technology/gamesblog/2006/oct/26/tenseriousgam)
-
-            Multiple games with political statements.
-
-            Abstinence
-
-            **The urgency of preserving this object**
-
-            Not because of this object, but because of its topic.
-
-            - Streamers
-
-                Streamers I sometimes check out, they have a big followers base. They have a chatbox where all the people who follow their stream can chat together, this is most of the times a big stream of messages.  
-
-                ![Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg](Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg](Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/download.jpeg](Catalog%20Of%20Archival%20Resilence/download.jpeg)
-
-            John rafman codes of horror
-
-            [https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
-
-            - IOGT —> Movendi International
-
-                International Organisation of Good Templars, founded in 1851, a 170 year old organisation, changed their name in 2019 to Movendi International.
-
-                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.21.05.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.21.05.png)
-
-            - Further Research Kienspel
-
-                Kienen uses up to number 90, Bingo uses up to number 70.
-
-                The wikipedia page of Kienen confirms that Kienen was used to get extra money by organisations, while the people playing the game could win prizes.
-
-                [Kienen](https://nl.wikipedia.org/wiki/Kienen)
-
-                Is missing de 90 schijven:
-
-                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.55.47.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.55.47.png)
-
-            - Archive Visit Kienspel
-                - iPhone Pictures
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_38.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_38.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_42.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_42.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_54.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_54.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_25.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_25.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_40.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_40.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_41_25.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_41_25.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_47.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_47.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_52.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_52.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_53.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_53.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_53.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_53.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_55.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_55.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_56.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_56.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_59.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_59.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_01.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_01.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_04.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_04.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_05.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_05.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_07.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_07.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_09.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_09.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_11.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_11.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_12.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_12.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_13.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_13.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_15.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_15.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_16.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_16.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_17.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_17.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_20.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_20.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_23.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_23.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_27.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_27.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_49.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_49.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_47.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_47.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_52.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_52.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_54.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_54.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_59.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_59.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_03.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_03.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_06.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_06.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_08.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_08.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_10.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_10.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_11.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_11.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_13.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_13.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_14.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_14.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_16.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_16.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_06_05.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_06_05.jpg)
-
-                - Pictures Canon 5Gx
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9297.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9297.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9298.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9298.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9299.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9299.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9300.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9300.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9301.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9301.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9302.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9302.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9303.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9303.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9304.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9304.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9305.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9305.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9306.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9306.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9307.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9307.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9308.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9308.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9309.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9309.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9310.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9310.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9311.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9311.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9312.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9312.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9313.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9313.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9314.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9314.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9315.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9315.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9316.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9316.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9317.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9317.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9318.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9318.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9319.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9319.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9320.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9320.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9321.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9321.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9322.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9322.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/IMG_9323.jpg](Catalog%20Of%20Archival%20Resilence/IMG_9323.jpg)
-
-                - Scans
-
-                    [pic_2020-03-04_124922.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_124922.pdf)
-
-                    [pic_2020-03-04_124953.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_124953.pdf)
-
-                    [pic_2020-03-04_125036.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125036.pdf)
-
-                    [pic_2020-03-04_125119.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125119.pdf)
-
-                    [pic_2020-03-04_125222.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125222.pdf)
-
-                    [pic_2020-03-04_125255.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125255.pdf)
-
-                    [pic_2020-03-04_125322.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125322.pdf)
-
-                    [pic_2020-03-04_125404.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125404.pdf)
-
-                    [pic_2020-03-04_125450.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125450.pdf)
-
-                    [pic_2020-03-04_125523.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125523.pdf)
-
-                    [pic_2020-03-04_125549.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125549.pdf)
-
-                    [pic_2020-03-04_125624.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125624.pdf)
-
-                    [pic_2020-03-04_125648.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125648.pdf)
-
-                    [pic_2020-03-04_125723.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125723.pdf)
-
-                    [pic_2020-03-04_125813.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125813.pdf)
-
-                    [pic_2020-03-04_125831.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125831.pdf)
-
-                    [pic_2020-03-04_125851.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125851.pdf)
-
-                    [pic_2020-03-04_125916.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125916.pdf)
-
-                    [pic_2020-03-04_125930.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125930.pdf)
-
-                    [pic_2020-03-04_125947.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_125947.pdf)
-
-                    [pic_2020-03-04_130009.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130009.pdf)
-
-                    [pic_2020-03-04_130049.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130049.pdf)
-
-                    [pic_2020-03-04_130113.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130113.pdf)
-
-                    [pic_2020-03-04_130130.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130130.pdf)
-
-                    [pic_2020-03-04_130151.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130151.pdf)
-
-                    [pic_2020-03-04_130209.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130209.pdf)
-
-                    [pic_2020-03-04_130226.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130226.pdf)
-
-                    [pic_2020-03-04_130241.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130241.pdf)
-
-                    [pic_2020-03-04_130302.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130302.pdf)
-
-                    [pic_2020-03-04_130320.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130320.pdf)
-
-                    [pic_2020-03-04_130352.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130352.pdf)
-
-                    [pic_2020-03-04_130725.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130725.pdf)
-
-                    [pic_2020-03-04_130742.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130742.pdf)
-
-                    [pic_2020-03-04_130806.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130806.pdf)
-
-                    [pic_2020-03-04_130823.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130823.pdf)
-
-                    [pic_2020-03-04_130842.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130842.pdf)
-
-                    [pic_2020-03-04_130857.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130857.pdf)
-
-                    [pic_2020-03-04_130918.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130918.pdf)
-
-                    [pic_2020-03-04_130930.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130930.pdf)
-
-                    [pic_2020-03-04_130950.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_130950.pdf)
-
-                    [pic_2020-03-04_131009.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131009.pdf)
-
-                    [pic_2020-03-04_131020.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131020.pdf)
-
-                    [pic_2020-03-04_131036.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131036.pdf)
-
-                    [pic_2020-03-04_131059.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131059.pdf)
-
-                    [pic_2020-03-04_131119.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131119.pdf)
-
-                    [pic_2020-03-04_131137.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131137.pdf)
-
-                    [pic_2020-03-04_131157.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131157.pdf)
-
-                    [pic_2020-03-04_131209.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131209.pdf)
-
-                    [pic_2020-03-04_131227.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131227.pdf)
-
-                    [pic_2020-03-04_131253.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131253.pdf)
-
-                    [pic_2020-03-04_131304.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131304.pdf)
-
-                    [pic_2020-03-04_131324.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131324.pdf)
-
-                    [pic_2020-03-04_131342.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131342.pdf)
-
-                    [pic_2020-03-04_131403.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131403.pdf)
-
-                    [pic_2020-03-04_131416.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131416.pdf)
-
-                    [pic_2020-03-04_131436.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131436.pdf)
-
-                    [pic_2020-03-04_131455.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131455.pdf)
-
-                    [pic_2020-03-04_131514.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131514.pdf)
-
-                    [pic_2020-03-04_131526.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131526.pdf)
-
-                    [pic_2020-03-04_131546.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131546.pdf)
-
-                    [pic_2020-03-04_131556.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131556.pdf)
-
-                    [pic_2020-03-04_131614.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131614.pdf)
-
-                    [pic_2020-03-04_131631.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131631.pdf)
-
-                    [pic_2020-03-04_131700.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131700.pdf)
-
-                    [pic_2020-03-04_131729.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131729.pdf)
-
-                    [pic_2020-03-04_131749.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131749.pdf)
-
-                    [pic_2020-03-04_131806.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131806.pdf)
-
-                    [pic_2020-03-04_131824.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131824.pdf)
-
-                    [pic_2020-03-04_131844.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131844.pdf)
-
-                    [pic_2020-03-04_131853.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131853.pdf)
-
-                    [pic_2020-03-04_131913.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131913.pdf)
-
-                    [pic_2020-03-04_131932.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_131932.pdf)
-
-                    [pic_2020-03-04_132022.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132022.pdf)
-
-                    [pic_2020-03-04_132037.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132037.pdf)
-
-                    [pic_2020-03-04_132049.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132049.pdf)
-
-                    [pic_2020-03-04_132103.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132103.pdf)
-
-                    [pic_2020-03-04_132119.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132119.pdf)
-
-                    [pic_2020-03-04_132128.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132128.pdf)
-
-                    [pic_2020-03-04_132141.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132141.pdf)
-
-                    [pic_2020-03-04_132156.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132156.pdf)
-
-                    [pic_2020-03-04_132206.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132206.pdf)
-
-                    [pic_2020-03-04_132222.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132222.pdf)
-
-                    [pic_2020-03-04_132234.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132234.pdf)
-
-                    [pic_2020-03-04_132248.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132248.pdf)
-
-                    [pic_2020-03-04_132302.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132302.pdf)
-
-                    [pic_2020-03-04_132319.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132319.pdf)
-
-                    [pic_2020-03-04_132327.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132327.pdf)
-
-                    [pic_2020-03-04_132341.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132341.pdf)
-
-                    [pic_2020-03-04_132356.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132356.pdf)
-
-                    [pic_2020-03-04_132410.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132410.pdf)
-
-                    [pic_2020-03-04_132423.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132423.pdf)
-
-                    [pic_2020-03-04_132439.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132439.pdf)
-
-                    [pic_2020-03-04_132453.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132453.pdf)
-
-                    [pic_2020-03-04_132509.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132509.pdf)
-
-                    [pic_2020-03-04_132520.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132520.pdf)
-
-                    [pic_2020-03-04_132536.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132536.pdf)
-
-                    [pic_2020-03-04_132611.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132611.pdf)
-
-                    [pic_2020-03-04_132623.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132623.pdf)
-
-                    [pic_2020-03-04_132636.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132636.pdf)
-
-                    [pic_2020-03-04_132649.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132649.pdf)
-
-                    [pic_2020-03-04_132704.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132704.pdf)
-
-                    [pic_2020-03-04_132718.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132718.pdf)
-
-                    [pic_2020-03-04_132731.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132731.pdf)
-
-                    [pic_2020-03-04_132746.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132746.pdf)
-
-                    [pic_2020-03-04_132800.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132800.pdf)
-
-                    [pic_2020-03-04_132814.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132814.pdf)
-
-                    [pic_2020-03-04_132832.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132832.pdf)
-
-                    [pic_2020-03-04_132847.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132847.pdf)
-
-                    [pic_2020-03-04_132900.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132900.pdf)
-
-                    [pic_2020-03-04_132914.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132914.pdf)
-
-                    [pic_2020-03-04_132927.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132927.pdf)
-
-                    [pic_2020-03-04_132941.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132941.pdf)
-
-                    [pic_2020-03-04_132954.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_132954.pdf)
-
-                    [pic_2020-03-04_133007.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_133007.pdf)
-
-                    [pic_2020-03-04_133022.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_133022.pdf)
-
-                    [pic_2020-03-04_133035.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_133035.pdf)
-
-                    [pic_2020-03-04_133049.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_133049.pdf)
-
-                    [pic_2020-03-04_133103.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_133103.pdf)
-
-                    [pic_2020-03-04_133116.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_133116.pdf)
-
-                    [pic_2020-03-04_133128.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_133128.pdf)
-
-                    [pic_2020-03-04_133144.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_133144.pdf)
-
-                    [pic_2020-03-04_133155.pdf](Catalog%20Of%20Archival%20Resilence/pic_2020-03-04_133155.pdf)
-
-            - Typography on the box
-
-                120 kaarten. 90 schijven.
-
-                Loge
-
-                Plaats - voor - Allen,,No 61.
-
-                Moerland 2
-
-                Schreveliusstraat 100, Haarlem
-
-            - Reverse image Search
-                - Picture of a "kaart"  from archive
-
-                    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.40.57.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.40.57.png)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.16.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.16.png)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.30.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.30.png)
-
-                - Google Maps
-
-                    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.54.jpg](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.54.jpg)
-
-                    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.04.jpg](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.04.jpg)
-
-            - Notes/questions 9 March
-
-                What it is what Im doing?
-
-                Experiment nr1/Transcoding nr1
-
-                Coding number chance calculator?
-
-                Talk with my grandmother about Kienspellen
-
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_13.52.43.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_13.52.43.png)
+            International Organisation of Good Templars, founded in 1851, a 170 year old organisation, changed their name in 2019 to Movendi International.
 
     - Online Archive IISG
         - Stamps
@@ -783,42 +426,129 @@ Tags: ARCHIVE
 
         ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.31.18.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.31.18.png)
 
-- Atomic
-    - Visuals
+    - Further Research Kienspel
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.23.51.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.23.51.png)
+        Kienen uses up to number 90, Bingo uses up to number 70.
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.25.00.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.25.00.png)
+        The wikipedia page of Kienen confirms that Kienen was used to get extra money by organisations, while the people playing the game could win prizes.
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.25.07.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.25.07.png)
+        [Kienen](https://nl.wikipedia.org/wiki/Kienen)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.25.15.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.25.15.png)
+        Is missing de 90 schijven:
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.26.26.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.26.26.png)
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.55.47.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.55.47.png)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.27.05.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.27.05.png)
+        - Archive Visit Kienspel
+            - iPhone Pictures
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.27.45.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.27.45.png)
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_38.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_38.jpg)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.28.13.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.28.13.png)
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_42.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_42.jpg)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.28.47.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.28.47.png)
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_54.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_54.jpg)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.30.03.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.30.03.png)
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_25.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_25.jpg)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.30.45.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.30.45.png)
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_40.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_40.jpg)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.31.15.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.31.15.png)
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_41_25.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_41_25.jpg)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.31.43.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-06_at_11.31.43.png)
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_47.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_47.jpg)
 
-    - Germany
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_52.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_52.jpg)
 
-        ![Catalog%20Of%20Archival%20Resilence/GorlebenNuclearWaste3.jpg](Catalog%20Of%20Archival%20Resilence/GorlebenNuclearWaste3.jpg)
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_53.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_53.jpg)
 
-        ![Catalog%20Of%20Archival%20Resilence/Castor-Zug.jpg](Catalog%20Of%20Archival%20Resilence/Castor-Zug.jpg)
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_53.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_53.jpg)
 
-        ![Catalog%20Of%20Archival%20Resilence/Smiling_Sun_English_Language.png](Catalog%20Of%20Archival%20Resilence/Smiling_Sun_English_Language.png)
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_55.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_55.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_56.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_56.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_59.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_59.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_01.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_01.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_04.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_04.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_05.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_05.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_07.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_07.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_09.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_09.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_11.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_11.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_12.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_12.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_13.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_13.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_15.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_15.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_16.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_16.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_17.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_17.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_20.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_20.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_23.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_23.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_27.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_27.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_49.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_49.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_47.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_47.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_52.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_52.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_54.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_54.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_59.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_59.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_03.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_03.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_06.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_06.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_08.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_08.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_10.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_10.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_11.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_11.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_13.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_13.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_14.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_14.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_16.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_16.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_06_05.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_06_05.jpg)
+
+        - Typography on the box
+
+            120 kaarten. 90 schijven.
+
+            Loge
+
+            Plaats - voor - Allen,,No 61.
+
+            Moerland 2
+
+            Schreveliusstraat 100, Haarlem
+
+        - Reverse image Search
+            - Picture of a "kaart"  from archive
+
+                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.40.57.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.40.57.png)
+
+                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.16.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.16.png)
+
+                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.30.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.30.png)
+
+            - Google Maps
+
+                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.54.jpg](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.54.jpg)
+
+                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.04.jpg](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.04.jpg)
 
 - Collectie kleine objecten AJC
 
@@ -847,5 +577,3 @@ Tags: ARCHIVE
     - Link
 
         [https://search.iisg.amsterdam/Record/COLL00145](https://search.iisg.amsterdam/Record/COLL00145)
-
-- War Resisters International
