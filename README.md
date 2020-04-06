@@ -53,7 +53,7 @@ Desperate to escape the unrelenting nature of a corporial existence
 [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
     <details>
-    <summary>Questions and stuff from 17/20feb</summary>
+    <summary>Questions and stuff from 17-20feb</summary>
     <br>
     Analysis of the medium
 
@@ -102,7 +102,7 @@ Desperate to escape the unrelenting nature of a corporial existence
     What would you do with your object if the building caught fire?
     </details>
 
-    -
+    
 
     Gaming as a way to spread your ideals/propaganda
 
