@@ -217,6 +217,8 @@ Caricature
 
 Czechoslovakia
 
+![Catalog%20Of%20Archival%20Resilence/StalinBoard.jpg](Catalog%20Of%20Archival%20Resilence/StalinBoard.jpg)
+
 What do I see in the picture?
 Stamp with a head
 Empty beerglass with red background and hammers & sickles surrounding it
