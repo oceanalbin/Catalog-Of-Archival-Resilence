@@ -383,6 +383,8 @@ First transcoding, to get the ball rolling. A mindmap about America's current st
 <details>
 <summary>Transcoding plannings/ideas</summary>
 <br>
+
+
 Tensions between America and Russia
 Video work, nuclear arms race.
 
@@ -392,7 +394,13 @@ Method 3D environment exaggerating the amount of Statues.
 Western vs Eastern block, proxy wars, temporary alliance, Nuclear Arms Race(Coding direction), Military deployment, struggle of dominance, psychological warfare, propaganda campaigns, espionage and Space Race, to name a few.
 </details>
 
+<details>
+<summary>Notes 6 April</summary>
+<br>
 
+Installation? Aspect of Format
+What is my intention: To visualise the Cold War.
+</details>
 
 
 
