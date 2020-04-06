@@ -22,7 +22,7 @@ https://www.notion.so/Catalog-Of-Archival-Resilence-8a46df8c806d46ac82a72ad8cd04
   [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
 <details>
-<summary>Questions and stuff from 17-20feb</summary>
+<summary>Notes from 17-20feb</summary>
 
 Analysis of the medium
 
@@ -123,9 +123,9 @@ What would you do with your object if the building caught fire?
 
 
 
-
+<h2>Current Stage<h2/>
 <details>
-<summary>**Propaganda in video games**</summary>
+<summary>Propaganda in video games</summary>
 <br>
 [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
@@ -176,7 +176,7 @@ John rafman codes of horror
 
 
 <details>
-<summary>Notes/questions 9 March</summary>
+<summary>Notes 9 March</summary>
 What it is what Im doing?
 
 Experiment nr1/Transcoding nr1
