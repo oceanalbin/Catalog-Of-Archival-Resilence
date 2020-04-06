@@ -386,6 +386,8 @@ First transcoding, to get the ball rolling. A mindmap about America's current st
 
 Making a boardgame in 3D environment, like Cinema4D.
 
+Abstract Socialist Realism scenarios, like Proxy wars, Nuclear Arms Race, Space Race.
+
 Tensions between America and Russia
 Video work, nuclear arms race.
 
@@ -400,6 +402,7 @@ Western vs Eastern block, proxy wars, temporary alliance, Nuclear Arms Race(Codi
 <br>
 What do I want to let the public see or understand from my work?
 I want to retell the Cold War and highlight parts of it which I think are interesting.
+
 Installation? Aspect of Format
 What is my intention: To visualise the Cold War.
 </details>
