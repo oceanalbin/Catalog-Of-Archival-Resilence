@@ -384,6 +384,7 @@ First transcoding, to get the ball rolling. A mindmap about America's current st
 <summary>Transcoding plannings/ideas</summary>
 <br>
 
+Making a boardgame in 3D environment, like Cinema4D.
 
 Tensions between America and Russia
 Video work, nuclear arms race.
