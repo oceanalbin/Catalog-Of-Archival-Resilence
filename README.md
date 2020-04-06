@@ -398,7 +398,7 @@ Western vs Eastern block, proxy wars, temporary alliance, Nuclear Arms Race(Codi
 <details>
 <summary>Notes 6 April</summary>
 <br>
-
+What do I want to let the public see or understand from my work?
 Installation? Aspect of Format
 What is my intention: To visualise the Cold War.
 </details>
