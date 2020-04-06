@@ -123,9 +123,8 @@ What would you do with your object if the building caught fire?
 
 
 
-<h2>Current Stage<h2/>
 <details>
-<summary>Propaganda in video games</summary>
+<summary><h2>Propaganda in video games</h2></summary>
 <br>
 [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
