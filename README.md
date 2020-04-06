@@ -225,15 +225,17 @@ Talk with my grandmother about Kienspellen
 <details>
 <summary>Unity classes</summary>
 <br>
+
 [https://www.youtube.com/watch?v=odKtPBsyFnw](https://www.youtube.com/watch?v=odKtPBsyFnw)
 
 [https://www.youtube.com/watch?v=MX_KK7u53As](https://www.youtube.com/watch?v=MX_KK7u53As)
 
 [https://www.youtube.com/watch?v=7K2SMZQRKnw](https://www.youtube.com/watch?v=7K2SMZQRKnw)
+
 </details>
 
 <details>
-<summary>**Alternative Artefact — Boardgames with possible ties to propaganda**</summary>
+**<summary>Alternative Artefact — Boardgames with possible ties to propaganda</summary>**
 <br>
 
         ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
