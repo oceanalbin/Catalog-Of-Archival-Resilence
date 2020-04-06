@@ -360,14 +360,25 @@ How do the tensions of the cold war still rage on in todays society? How did the
 </details>
 
 <details>
-<summary>First Transcoding</summary>
+<summary>Transcodings</summary>
 <br>
 
+
+First transcoding, to get the ball rolling.
 ![Catalog%20Of%20Archival%20Resilence/USA.jpg](Catalog%20Of%20Archival%20Resilence/USA.jpg)
 
 America's current state of affairs in the gaming branch.
 </details>
 
+<details>
+<summary>Transcoding plannings/ideas</summary>
+<br>
+Tensions between America and Russia
+Video work, nuclear arms race.
+
+Transcoding about Statues of Stalin, how a statue influences an area.
+Method 3D environment exaggerating the amount of Statues.
+</details>
 
 
 
