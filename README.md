@@ -388,6 +388,8 @@ Video work, nuclear arms race.
 
 Transcoding about Statues of Stalin, how a statue influences an area.
 Method 3D environment exaggerating the amount of Statues.
+
+Western vs Eastern block, proxy wars, temporary alliance, Nuclear Arms Race(Coding direction), Military deployment, struggle of dominance, psychological warfare, propaganda campaigns, espionage and Space Race, to name a few.
 </details>
 
 
