@@ -324,6 +324,8 @@ How do the tensions of the cold war still rage on in todays society? How did the
 <summary>First Transcode</summary>
 <br>
 
+![Catalog%20Of%20Archival%20Resilence/USA.jpg](Catalog%20Of%20Archival%20Resilence/USA.jpg)
+
 America's current state of affairs in the gaming branch.
 </details>
 
