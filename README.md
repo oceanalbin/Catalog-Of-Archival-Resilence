@@ -122,9 +122,9 @@ What would you do with your object if the building caught fire?
 </details>
 
 
-
+<h2>Propaganda in video games</h2>
 <details>
-<h2><summary>Propaganda in video games</summary></h2>
+<summary>Research</summary>
 <br>
 [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
@@ -271,9 +271,48 @@ Talk with my grandmother about Kienspellen
         I am looking for a story to visualise in my game about propaganda and Stalin.
 </details>
 
+<details>
+<summary>Notes 16 March(Coding)</summary>
+<br>
+Using C# Unity – Huge Abstract Boardgames
+Different ideologies
+A tool to analise other games use of Propaganda
+Archiving a war experience—> Be a hero within this history
+Only talking about specific army games and their ideology.
+Games try to archive a feeling
 
+Moniker examples
+Rules, game, ideology, agenda
+</details>
 
+<details>
+<summary>Notes 30 March(Coding)</summary>
+<br>
+Trip through time —> Realisation how different kinds of propaganda and powerstructures functioneerde
 
+Could be a racing games
+
+Game examples: COD("terrorists", of multiple etniticities), Wolfenstein(nazis) uses a lot of propaganda
+Fighting/strategic games
+
+Biasses
+
+Come from boardgames go to —> Contemporary Examples
+
+Example games: Tapletop Simulator & The Stanley Parable
+
+2D games in 3D realism
+
+Events happening around stalin
+
+Timeline —> Path that the player stakes
+
+C# scripts and interactivity
+Narrator tells you to do things, you can choose to ignore it. Narration of a Story.
+</details>
+
+<br><br>
+<h2>Old Artefacts and research</h2>
 
 <details>
 <summary>International Organisation of Good Templars and the Topic of Propaganda of Games</summary>
