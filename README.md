@@ -4,22 +4,21 @@ Tags: ARCHIVE
 
 https://www.notion.so/Catalog-Of-Archival-Resilence-8a46df8c806d46ac82a72ad8cd045ec0
 
-- **Gaming Research**
+**Gaming Research**
 
+  Entrypoints for research:
 
+  - Gaming as a connection with others (bindingsmiddel)
 
+  - Gaming as an addiction
 
-  Gaming as a connection with others (bindingsmiddel)
+  - Useless hobby? Or ways to comprehend the real world/trauma
 
-  Gaming as an addiction
+  - Gaming as a way to spread your ideals/propaganda
 
-  Useless hobby? Or ways to comprehend the real world/trauma
+  - Gaming as a way of transporting your propaganda
 
-  Gaming as a way to spread your ideals/propaganda
-
-  Gaming as a way of transporting your propaganda
-
-  Desperate to escape the unrelenting nature of a corporial existence
+  -  Desperate to escape the unrelenting nature of a corporial existence
   [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
 <details>
