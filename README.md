@@ -6,41 +6,7 @@ https://www.notion.so/Catalog-Of-Archival-Resilence-8a46df8c806d46ac82a72ad8cd04
 
 - **Gaming Research**
 
-<details>
-<summary>Questions to ask at IISG and General</summary>
-<br>
-Check if someone knows about the movement
 
-*Some bystanders have heard of it, as far as the receptionist knew nobody knew where it came from.*
-
-Why does the archive have this collection?
-
-*Not a specific answer, could be added with other collections.*
-
-*Ik vermoed daarom dat veel hiervan direct aan het IISG is overgedragen, misschien door een loge, of door individuele leden. Sommigen van de vele speldjes kunnen ons ook nog langs een andere weg bereikt hebben, bijvoorbeeld via het persoonsarchief van iemand die toevallig lid was, of als losse schenking. Om privacyredenen vermelden we dit vaak niet. — IISG*
-
-Why does this needs to be archived?
-
-*No clear answer, something along the lines of it being an old organisation, which had an impact/mission in the history.*
-
-Framing a position towards it.
-
-Strip away the meaning of the organisation —> Abstraction
-
-Why do I want to make it resilience?
-
-What is the relevance of this topic against other topics? Or is it in the object itself?
-
-Look at the Metadata.
-
-What is the social context, which is not in the archive, related to the city, how does it look like back then?
-
-What kind of game is it?
-
-Commercial, propaganda
-
-—Mythology can prolong the lifespan of an object or movement.
-</details>
 
 
   Gaming as a connection with others (bindingsmiddel)
@@ -309,15 +275,51 @@ Talk with my grandmother about Kienspellen
 
 
 
-    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_13.52.43.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_13.52.43.png)
-
-![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_12.16.29.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_12.16.29.png)
-
 
 
 <details>
 <summary>International Organisation of Good Templars and the Topic of Propaganda of Games</summary>
 <br>
+
+<details>
+<summary>Questions to ask at IISG and General</summary>
+<br>
+Check if someone knows about the movement
+
+*Some bystanders have heard of it, as far as the receptionist knew nobody knew where it came from.*
+
+Why does the archive have this collection?
+
+*Not a specific answer, could be added with other collections.*
+
+*Ik vermoed daarom dat veel hiervan direct aan het IISG is overgedragen, misschien door een loge, of door individuele leden. Sommigen van de vele speldjes kunnen ons ook nog langs een andere weg bereikt hebben, bijvoorbeeld via het persoonsarchief van iemand die toevallig lid was, of als losse schenking. Om privacyredenen vermelden we dit vaak niet. — IISG*
+
+Why does this needs to be archived?
+
+*No clear answer, something along the lines of it being an old organisation, which had an impact/mission in the history.*
+
+Framing a position towards it.
+
+Strip away the meaning of the organisation —> Abstraction
+
+Why do I want to make it resilience?
+
+What is the relevance of this topic against other topics? Or is it in the object itself?
+
+Look at the Metadata.
+
+What is the social context, which is not in the archive, related to the city, how does it look like back then?
+
+What kind of game is it?
+
+Commercial, propaganda
+
+—Mythology can prolong the lifespan of an object or movement.
+</details>
+
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_12.16.29.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_12.16.29.png)
+
+
 - Information
 
     [https://en.wikipedia.org/wiki/International_Organisation_of_Good_Templars](https://en.wikipedia.org/wiki/International_Organisation_of_Good_Templars)
