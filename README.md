@@ -49,68 +49,65 @@ Commercial, propaganda
 
   Useless hobby? Or ways to comprehend the real world/trauma
 
+  Gaming as a way to spread your ideals/propaganda
+
+  Gaming as a way of transporting your propaganda
+
   Desperate to escape the unrelenting nature of a corporial existence
   [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
 <details>
 <summary>Questions and stuff from 17-20feb</summary>
-<br>
-    Analysis of the medium
 
-    Game can be a system
+Analysis of the medium
 
-    Evidence based policy
+Game can be a system
 
-    Look from within the artefact
+Evidence based policy
 
-    Material aspect/Production
+Look from within the artefact
 
-    Social Context is less important
+Material aspect/Production
 
-    What is the essence of the object
+Social Context is less important
 
-    What kind of game is it: Commercial, propaganda, etc...
+What is the essence of the object
 
-    How does your artefact relate to a topic?
+What kind of game is it: Commercial, propaganda, etc...
 
-    What is my position in this topic?
+How does your artefact relate to a topic?
 
-    What is their agenda?
+What is my position in this topic?
 
-    Active communicating(big production)
+What is their agenda?
 
-    Why do I want to make it resiliance
+Active communicating(big production)
 
-    What is the relevance of this topic against other topics?
+Why do I want to make it resiliance
 
-    Or is it in the object itself?
+What is the relevance of this topic against other topics?
 
-    Abstinence is their topic
+Or is it in the object itself?
 
-    What is mine towards this topic
+Abstinence is their topic
 
-    Look at the meta data
+What is mine towards this topic
 
-    What is the social context, which is not in the archive, related to the city, how did it look back then?
+Look at the meta data
 
-    How does the game function in the real world?
+What is the social context, which is not in the archive, related to the city, how did it look back then?
 
-    Predefine a topic
+How does the game function in the real world?
 
-    What are the first things I think of?
+Predefine a topic
 
-    What would you do with your object if the building caught fire?
+What are the first things I think of?
+
+What would you do with your object if the building caught fire?
 </details>
 
-
-
-    Gaming as a way to spread your ideals/propaganda
-
-    Gaming as a way of transporting your propaganda
-
-    # Bingo Research (analysis of the medium)
 <details>
-<summary>## What is Bingo?</summary>
+<summary>What is Bingo?</summary>
 <br>
     A game which dates back to 1530 in Italy, the standardised version dates back to 1920's America.
 
@@ -163,7 +160,7 @@ Commercial, propaganda
 
 
 <details>
-<summary>### Propaganda in video games</summary>
+<summary>**Propaganda in video games**</summary>
 <br>
 [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
@@ -215,7 +212,6 @@ John rafman codes of horror
 
 <details>
 <summary>Notes/questions 9 March</summary>
-<br>
 What it is what Im doing?
 
 Experiment nr1/Transcoding nr1
@@ -223,10 +219,6 @@ Experiment nr1/Transcoding nr1
 Coding number chance calculator?
 
 Talk with my grandmother about Kienspellen
-
-
-
-
 
 </details>
 
@@ -241,7 +233,7 @@ Talk with my grandmother about Kienspellen
 </details>
 
 <details>
-<summary>Alternative Artefact — Boardgames with possible ties to propaganda</summary>
+<summary>**Alternative Artefact — Boardgames with possible ties to propaganda**</summary>
 <br>
 
         ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
