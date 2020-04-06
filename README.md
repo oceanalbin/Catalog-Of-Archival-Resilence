@@ -213,26 +213,36 @@ John rafman codes of horror
 </details>
 
 
+<details>
+<summary>Notes/questions 9 March</summary>
+<br>
+What it is what Im doing?
 
-    - Notes/questions 9 March
+Experiment nr1/Transcoding nr1
 
-        What it is what Im doing?
+Coding number chance calculator?
 
-        Experiment nr1/Transcoding nr1
+Talk with my grandmother about Kienspellen
 
-        Coding number chance calculator?
 
-        Talk with my grandmother about Kienspellen
 
-    - Unity classes
 
-        [https://www.youtube.com/watch?v=odKtPBsyFnw](https://www.youtube.com/watch?v=odKtPBsyFnw)
 
-        [https://www.youtube.com/watch?v=MX_KK7u53As](https://www.youtube.com/watch?v=MX_KK7u53As)
+</details>
 
-        [https://www.youtube.com/watch?v=7K2SMZQRKnw](https://www.youtube.com/watch?v=7K2SMZQRKnw)
+<details>
+<summary>Unity classes</summary>
+<br>
+[https://www.youtube.com/watch?v=odKtPBsyFnw](https://www.youtube.com/watch?v=odKtPBsyFnw)
 
-    - Alternative Artefact — Boardgames with possible ties to propaganda
+[https://www.youtube.com/watch?v=MX_KK7u53As](https://www.youtube.com/watch?v=MX_KK7u53As)
+
+[https://www.youtube.com/watch?v=7K2SMZQRKnw](https://www.youtube.com/watch?v=7K2SMZQRKnw)
+</details>
+
+<details>
+<summary>Alternative Artefact — Boardgames with possible ties to propaganda</summary>
+<br>
 
         ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
 
@@ -271,8 +281,12 @@ John rafman codes of horror
         [https://search.iisg.amsterdam/Record/1037521](https://search.iisg.amsterdam/Record/1037521)
 
         [https://search.iisg.amsterdam/Record/1037527](https://search.iisg.amsterdam/Record/1037527)
+</details>
 
-    - Russia, Stalin and Propaganda
+
+<details>
+<summary>Russia, Stalin and Propaganda</summary>
+<br>
 
         [Stalin's lifehacks: How to ruthlessly take power and get away with it](https://www.rbth.com/history/330225-joseph-stalin-rise-power-politics)
 
@@ -297,6 +311,9 @@ John rafman codes of horror
         Statues of Stalin
 
         I am looking for a story to visualise in my game about propaganda and Stalin.
+</details>
+
+
 
     ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_13.52.43.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_13.52.43.png)
 
