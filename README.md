@@ -202,7 +202,32 @@ Talk with my grandmother about Kienspellen
 
 ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
 
-I found a boardgame which portrays stalin, the metadata mentions Czech republic, so I am continuing my propaganda in boardgame research with this piece. [https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
+MetaData:
+Stavime Stalinuv Pomnik
+Stavime = to represent/introduce/build/construct
+Stalinuv = Stalin
+Pomnik = monument/memorial/statue
+
+1950-1974
+1975-1999
+
+Stalin, former Russian President
+
+Caricature
+
+Czechoslovakia
+
+What do I see in the picture?
+Stamp with a head
+Empty beerglass with red background and hammers & sickles surrounding it
+A dog?
+—
+Walking snowman—>ties with Marxism?
+Full glass of beer, filled with hammers & sickles
+A judge? with a loop? under it a hammer & sickles
+Stalin, with a commander and soldiers? Background Clouds filled with stars.
+
+[https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
 
 <details>
 <summary>Alternative Artefacts</summary>
