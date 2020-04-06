@@ -202,43 +202,43 @@ Talk with my grandmother about Kienspellen
 <summary>Alternative Artefact — Boardgames with possible ties to propaganda</summary>
 <br>
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
 
-        I found a boardgame which portrays stalin, the metadata mentions Czech republic, so I am continuing my propaganda in boardgame research with this piece. [https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
+I found a boardgame which portrays stalin, the metadata mentions Czech republic, so I am continuing my propaganda in boardgame research with this piece. [https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.18.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.18.png)
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.18.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.18.png)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.27.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.27.png)
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.27.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.27.png)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.46.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.46.png)
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.46.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.46.png)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.55.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.55.png)
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.55.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.55.png)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.04.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.04.png)
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.04.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.04.png)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.14.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.14.png)
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.14.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.14.png)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.23.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.23.png)
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.23.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.23.png)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.32.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.32.png)
+![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.32.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.08.32.png)
 
-        [https://search.iisg.amsterdam/Record/789143](https://search.iisg.amsterdam/Record/789143)
+[https://search.iisg.amsterdam/Record/789143](https://search.iisg.amsterdam/Record/789143)
 
-        [https://search.iisg.amsterdam/Record/1254784](https://search.iisg.amsterdam/Record/1254784)
+[https://search.iisg.amsterdam/Record/1254784](https://search.iisg.amsterdam/Record/1254784)
 
-        [https://search.iisg.amsterdam/Record/1021490](https://search.iisg.amsterdam/Record/1021490)
+[https://search.iisg.amsterdam/Record/1021490](https://search.iisg.amsterdam/Record/1021490)
 
-        [https://search.iisg.amsterdam/Record/840544](https://search.iisg.amsterdam/Record/840544)
+[https://search.iisg.amsterdam/Record/840544](https://search.iisg.amsterdam/Record/840544)
 
-        [https://search.iisg.amsterdam/Record/831745](https://search.iisg.amsterdam/Record/831745)
+[https://search.iisg.amsterdam/Record/831745](https://search.iisg.amsterdam/Record/831745)
 
-        [https://search.iisg.amsterdam/Record/1247045](https://search.iisg.amsterdam/Record/1247045)
+[https://search.iisg.amsterdam/Record/1247045](https://search.iisg.amsterdam/Record/1247045)
 
-        [https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
+[https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
 
-        [https://search.iisg.amsterdam/Record/1037521](https://search.iisg.amsterdam/Record/1037521)
+[https://search.iisg.amsterdam/Record/1037521](https://search.iisg.amsterdam/Record/1037521)
 
-        [https://search.iisg.amsterdam/Record/1037527](https://search.iisg.amsterdam/Record/1037527)
+[https://search.iisg.amsterdam/Record/1037527](https://search.iisg.amsterdam/Record/1037527)
 </details>
 
 
@@ -321,7 +321,7 @@ How do the tensions of the cold war still rage on in todays society? How did the
 </details>
 
 <details>
-<summary>First Transcode</summary>
+<summary>First Transcoding</summary>
 <br>
 
 ![Catalog%20Of%20Archival%20Resilence/USA.jpg](Catalog%20Of%20Archival%20Resilence/USA.jpg)
