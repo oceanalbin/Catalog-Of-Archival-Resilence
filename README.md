@@ -220,13 +220,23 @@ Czechoslovakia
 ![Catalog%20Of%20Archival%20Resilence/StalinBoard.jpg](Catalog%20Of%20Archival%20Resilence/StalinBoard.jpg)
 
 What do I see in the picture?
+
 Stamp with a head
+
 Empty beerglass with red background and hammers & sickles surrounding it
+
 A dog?
+
 —
+
 Walking snowman—>ties with Marxism?
+
 Full glass of beer, filled with hammers & sickles
+
 A judge? with a loop? under it a hammer & sickles
+
+Someone voting, looks like he isnt there on freewill
+
 Stalin, with a commander and soldiers? Background Clouds filled with stars.
 
 [https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
