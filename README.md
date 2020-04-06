@@ -235,7 +235,7 @@ Talk with my grandmother about Kienspellen
 </details>
 
 <details>
-**<summary>Alternative Artefact — Boardgames with possible ties to propaganda</summary>**
+<summary>Alternative Artefact — Boardgames with possible ties to propaganda</summary>
 <br>
 
         ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
@@ -313,295 +313,302 @@ Talk with my grandmother about Kienspellen
 
 ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_12.16.29.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_12.16.29.png)
 
-[https://www.notion.so/Assignment-CATALOG-OF-ARCHIVAL-RESILIENCE-IMD-CODING-56f1276523d245e0a706a44a6eb32eb9](https://www.notion.so/Assignment-CATALOG-OF-ARCHIVAL-RESILIENCE-IMD-CODING-56f1276523d245e0a706a44a6eb32eb9)
 
-- International Organisation of Good Templars and the Topic of Propaganda of Games
-    - Information
 
-        [https://en.wikipedia.org/wiki/International_Organisation_of_Good_Templars](https://en.wikipedia.org/wiki/International_Organisation_of_Good_Templars)
+<details>
+<summary>International Organisation of Good Templars and the Topic of Propaganda of Games</summary>
+<br>
+- Information
 
-        The state of the Teutonic order 1410 ?Radek?
+    [https://en.wikipedia.org/wiki/International_Organisation_of_Good_Templars](https://en.wikipedia.org/wiki/International_Organisation_of_Good_Templars)
 
-    - Stumbled on Topic
+    The state of the Teutonic order 1410 ?Radek?
 
-        →Objects→Games→International Organisation of Good Templars
+- Stumbled on Topic
+
+    →Objects→Games→International Organisation of Good Templars
+
+    [https://search.iisg.amsterdam/Record/1069677](https://search.iisg.amsterdam/Record/1069677)
+
+    > Written:
+    120 Kaarten
+    90 Schijven
+    LOGE
+    Plaats voor Allen Nr 61
+    (Place for all)
+    In Haarlem
+
+    Phisical:
+    Box from wood; 67x61 cm; 34x50 cm
+    With metal handles and a lock system
+    Unreadable little sticker on top, seems like a label
+
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.22.31.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.22.31.png)
+
+    - IOGT —> Movendi International
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.21.05.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.21.05.png)
+
+        International Organisation of Good Templars, founded in 1851, a 170 year old organisation, changed their name in 2019 to Movendi International.
+
+- Online Archive IISG
+    - Stamps
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.39.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.39.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.54.png)
+
+    - Buttons
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.55.58.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.55.58.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.16.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.16.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.32.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.32.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.48.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.48.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.00.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.00.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.12.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.12.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.32.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.32.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.44.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.44.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.58.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.58.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.09.40.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.09.40.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.10.10.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.10.10.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.10.41.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.10.41.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.12.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.12.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.38.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.38.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.56.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.56.png)
+
+    - Objects
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.22.31%201.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.22.31%201.png)
+
+    - Printed Matter
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.22.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.22.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.06.42.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.06.42.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.18.01.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.18.01.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.18.22.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.18.22.png)
+
+    - Charter
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.12.49.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.12.49.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.13.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.13.png)
+
+    - Other(Also alcohol)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.38.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.38.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.57.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.57.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.17.49.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.17.49.png)
+
+    - Unknown
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.47.22.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.47.22.png)
+
+    - Premade Archives
+
+        Zutphen
+
+        [https://search.iisg.amsterdam/Record/ARCH00666](https://search.iisg.amsterdam/Record/ARCH00666)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.20.58.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.20.58.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.21.07.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.21.07.png)
+
+        Apeldoorn, Leens, Leeuwarden en Nijmegen
+
+        [https://search.iisg.amsterdam/Record/ARCH00725](https://search.iisg.amsterdam/Record/ARCH00725)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.25.27.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.25.27.png)
+
+        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.25.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.25.36.png)
+
+    - Links
+
+        General Search:
+
+        [https://search.iisg.amsterdam/Author/Home?author=International+Organisation+of+Good+Templars](https://search.iisg.amsterdam/Author/Home?author=International+Organisation+of+Good+Templars).
+
+        Specific Game Object:
 
         [https://search.iisg.amsterdam/Record/1069677](https://search.iisg.amsterdam/Record/1069677)
 
-        > Written:
-        120 Kaarten
-        90 Schijven
-        LOGE
-        Plaats voor Allen Nr 61
-        (Place for all)
-        In Haarlem
+- Photos
 
-        Phisical:
-        Box from wood; 67x61 cm; 34x50 cm
-        With metal handles and a lock system
-        Unreadable little sticker on top, seems like a label
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.29.52.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.29.52.png)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.22.31.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.22.31.png)
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.31.18.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.31.18.png)
 
-        - IOGT —> Movendi International
+- Further Research Kienspel
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.21.05.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.21.05.png)
+    Kienen uses up to number 90, Bingo uses up to number 70.
 
-            International Organisation of Good Templars, founded in 1851, a 170 year old organisation, changed their name in 2019 to Movendi International.
+    The wikipedia page of Kienen confirms that Kienen was used to get extra money by organisations, while the people playing the game could win prizes.
 
-    - Online Archive IISG
-        - Stamps
+    [Kienen](https://nl.wikipedia.org/wiki/Kienen)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.39.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.39.png)
+    Is missing de 90 schijven:
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.54.png)
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.55.47.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.55.47.png)
 
-        - Buttons
+    - Archive Visit Kienspel
+        - iPhone Pictures
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.55.58.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.55.58.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_38.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_38.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.16.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.16.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_42.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_42.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.32.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.32.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_54.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_54.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.48.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.56.48.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_25.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_25.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.00.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.00.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_40.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_40.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.12.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.12.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_41_25.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_41_25.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.32.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.32.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_47.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_47.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.44.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.44.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_52.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_52.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.58.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.57.58.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_53.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_53.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.09.40.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.09.40.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_53.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_53.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.10.10.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.10.10.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_55.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_55.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.10.41.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.10.41.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_56.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_56.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.12.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.12.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_59.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_59.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.38.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.38.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_01.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_01.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.56.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.11.56.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_04.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_04.jpg)
 
-        - Objects
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_05.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_05.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.22.31%201.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.22.31%201.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_07.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_07.jpg)
 
-        - Printed Matter
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_09.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_09.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.22.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.30.22.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_11.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_11.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.06.42.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.06.42.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_12.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_12.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.18.01.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.18.01.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_13.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_13.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.18.22.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.18.22.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_15.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_15.jpg)
 
-        - Charter
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_16.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_16.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.12.49.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.12.49.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_17.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_17.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.13.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.13.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_20.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_20.jpg)
 
-        - Other(Also alcohol)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_23.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_23.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.38.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.38.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_27.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_27.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.57.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.13.57.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_49.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_49.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.17.49.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.17.49.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_47.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_47.jpg)
 
-        - Unknown
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_52.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_52.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.47.22.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.47.22.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_54.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_54.jpg)
 
-        - Premade Archives
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_59.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_59.jpg)
 
-            Zutphen
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_03.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_03.jpg)
 
-            [https://search.iisg.amsterdam/Record/ARCH00666](https://search.iisg.amsterdam/Record/ARCH00666)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_06.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_06.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.20.58.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.20.58.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_08.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_08.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.21.07.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.21.07.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_10.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_10.jpg)
 
-            Apeldoorn, Leens, Leeuwarden en Nijmegen
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_11.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_11.jpg)
 
-            [https://search.iisg.amsterdam/Record/ARCH00725](https://search.iisg.amsterdam/Record/ARCH00725)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_13.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_13.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.25.27.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.25.27.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_14.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_14.jpg)
 
-            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.25.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_15.25.36.png)
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_16.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_16.jpg)
 
-        - Links
+            ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_06_05.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_06_05.jpg)
 
-            General Search:
+    - Typography on the box
 
-            [https://search.iisg.amsterdam/Author/Home?author=International+Organisation+of+Good+Templars](https://search.iisg.amsterdam/Author/Home?author=International+Organisation+of+Good+Templars).
+        120 kaarten. 90 schijven.
 
-            Specific Game Object:
+        Loge
 
-            [https://search.iisg.amsterdam/Record/1069677](https://search.iisg.amsterdam/Record/1069677)
+        Plaats - voor - Allen,,No 61.
 
-    - Photos
+        Moerland 2
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.29.52.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.29.52.png)
+        Schreveliusstraat 100, Haarlem
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.31.18.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-17_at_14.31.18.png)
+    - Reverse image Search
+        - Picture of a "kaart"  from archive
 
-    - Further Research Kienspel
+            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.40.57.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.40.57.png)
 
-        Kienen uses up to number 90, Bingo uses up to number 70.
+            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.16.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.16.png)
 
-        The wikipedia page of Kienen confirms that Kienen was used to get extra money by organisations, while the people playing the game could win prizes.
+            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.30.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.30.png)
 
-        [Kienen](https://nl.wikipedia.org/wiki/Kienen)
+        - Google Maps
 
-        Is missing de 90 schijven:
+            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.54.jpg](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.54.jpg)
 
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.55.47.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.55.47.png)
+            ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.04.jpg](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.04.jpg)
+</details>
 
-        - Archive Visit Kienspel
-            - iPhone Pictures
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_38.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_38.jpg)
+<details>
+<summary>Collectie kleine objecten AJC</summary>
+<br>
+[Arbeiders Jeugd Centrale](https://nl.wikipedia.org/wiki/Arbeiders_Jeugd_Centrale)
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_42.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_42.jpg)
+- Description
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_54.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_38_54.jpg)
+    Opgericht in maart 1918 stelde de Arbeiders Jeugd Centrale (AJC) zich ten doel jongeren uit de arbeidersklasse op te voeden en te ontwikkelen en hen voor te bereiden op deelname aan de strijd van de arbeidersbeweging voor het socialisme; de AJC functioneerde aanvankelijk als jeugdorganisatie van het Nederlands Verbond van Vakverenigingen en de Sociaal-Democratische Arbeiders Partij (SDAP); in 1920 werd Koos Vorrink bezoldigd secretaris-redacteur en in 1924 voorzitter van de AJC; onder zijn leiding groeide de AJC uit tot een krachtige jeugdorganisatie, die een eigen stijl had: geen alcohol en tabak, een eigen manier van kleden, feestvieren en vrijetijdsbesteding; wandelen en kamperen hoorden daarbij en zingen, volksdansen, muziek en lekenspel; na de Duitse inval in mei 1940 besloot het hoofdbestuur in augustus 1940 de AJC op te heffen; ondergronds werden bepaalde activiteiten voortgezet; na de bevrijding werd de AJC spoedig heropgericht; in de loop van de jaren vijftig zorgden de emancipatie van de arbeidersklasse en de ontzuiling er voor dat de traditionele AJC-stijl de jeugd minder aansprak; in februari 1959 werd de AJC opgeheven; in maart 1959 werd het Jeugd- en Jongerencentrum 'Ruimte' opgericht; in 1980 werd de Stichting Onderzoek AJC opgericht die zich ten doel stelde materiaal betreffende de AJC te verzamelen en onderzoek naar de geschiedenis te verrichten; eind 2002 achtte de Stichting haar taken voltooid en besloot deze zich op te heffen.
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_25.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_25.jpg)
+- Visuals
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_40.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_39_40.jpg)
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.28.49.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.28.49.png)
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_41_25.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_12_41_25.jpg)
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.28.59.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.28.59.png)
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_47.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_47.jpg)
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.29.23.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.29.23.png)
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_52.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_52.jpg)
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.31.08.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.31.08.png)
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_53.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_09_53.jpg)
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.31.27.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.31.27.png)
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_53.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_53.jpg)
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.32.03.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.32.03.png)
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_55.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_55.jpg)
+    ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.32.18.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.32.18.png)
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_56.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_56.jpg)
+- Link
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_59.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_13_59_59.jpg)
+    [https://search.iisg.amsterdam/Record/COLL00145](https://search.iisg.amsterdam/Record/COLL00145)
 
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_01.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_01.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_04.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_04.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_05.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_05.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_07.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_07.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_09.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_09.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_11.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_11.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_12.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_12.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_13.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_13.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_15.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_15.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_16.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_16.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_17.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_17.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_20.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_20.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_23.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_23.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_27.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_27.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_49.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_00_49.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_47.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_47.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_52.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_52.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_54.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_54.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_59.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_01_59.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_03.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_03.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_06.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_06.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_08.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_08.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_10.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_10.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_11.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_11.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_13.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_13.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_14.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_14.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_16.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_02_16.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_06_05.jpg](Catalog%20Of%20Archival%20Resilence/Photo_04-03-2020_14_06_05.jpg)
-
-        - Typography on the box
-
-            120 kaarten. 90 schijven.
-
-            Loge
-
-            Plaats - voor - Allen,,No 61.
-
-            Moerland 2
-
-            Schreveliusstraat 100, Haarlem
-
-        - Reverse image Search
-            - Picture of a "kaart"  from archive
-
-                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.40.57.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.40.57.png)
-
-                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.16.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.16.png)
-
-                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.30.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_13.42.30.png)
-
-            - Google Maps
-
-                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.54.jpg](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.54.jpg)
-
-                ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.04.jpg](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-09_at_14.44.04.jpg)
-
-- Collectie kleine objecten AJC
-
-    [Arbeiders Jeugd Centrale](https://nl.wikipedia.org/wiki/Arbeiders_Jeugd_Centrale)
-
-    - Description
-
-        Opgericht in maart 1918 stelde de Arbeiders Jeugd Centrale (AJC) zich ten doel jongeren uit de arbeidersklasse op te voeden en te ontwikkelen en hen voor te bereiden op deelname aan de strijd van de arbeidersbeweging voor het socialisme; de AJC functioneerde aanvankelijk als jeugdorganisatie van het Nederlands Verbond van Vakverenigingen en de Sociaal-Democratische Arbeiders Partij (SDAP); in 1920 werd Koos Vorrink bezoldigd secretaris-redacteur en in 1924 voorzitter van de AJC; onder zijn leiding groeide de AJC uit tot een krachtige jeugdorganisatie, die een eigen stijl had: geen alcohol en tabak, een eigen manier van kleden, feestvieren en vrijetijdsbesteding; wandelen en kamperen hoorden daarbij en zingen, volksdansen, muziek en lekenspel; na de Duitse inval in mei 1940 besloot het hoofdbestuur in augustus 1940 de AJC op te heffen; ondergronds werden bepaalde activiteiten voortgezet; na de bevrijding werd de AJC spoedig heropgericht; in de loop van de jaren vijftig zorgden de emancipatie van de arbeidersklasse en de ontzuiling er voor dat de traditionele AJC-stijl de jeugd minder aansprak; in februari 1959 werd de AJC opgeheven; in maart 1959 werd het Jeugd- en Jongerencentrum 'Ruimte' opgericht; in 1980 werd de Stichting Onderzoek AJC opgericht die zich ten doel stelde materiaal betreffende de AJC te verzamelen en onderzoek naar de geschiedenis te verrichten; eind 2002 achtte de Stichting haar taken voltooid en besloot deze zich op te heffen.
-
-    - Visuals
-
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.28.49.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.28.49.png)
-
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.28.59.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.28.59.png)
-
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.29.23.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.29.23.png)
-
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.31.08.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.31.08.png)
-
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.31.27.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.31.27.png)
-
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.32.03.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.32.03.png)
-
-        ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.32.18.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-02-14_at_16.32.18.png)
-
-    - Link
-
-        [https://search.iisg.amsterdam/Record/COLL00145](https://search.iisg.amsterdam/Record/COLL00145)
+</details>
