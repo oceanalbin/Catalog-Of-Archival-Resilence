@@ -4,7 +4,7 @@ Tags: ARCHIVE
 
 https://www.notion.so/Catalog-Of-Archival-Resilence-8a46df8c806d46ac82a72ad8cd045ec0
 
-**Gaming Research**
+<h2>Gaming Research</h2>
 
   Entrypoints for research:
 
@@ -121,7 +121,7 @@ What would you do with your object if the building caught fire?
     ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png)
 </details>
 
-
+<br>
 <h2>Propaganda in video games</h2>
 <details>
 <summary>Research</summary>
@@ -310,6 +310,37 @@ Timeline —> Path that the player stakes
 C# scripts and interactivity
 Narrator tells you to do things, you can choose to ignore it. Narration of a Story.
 </details>
+
+
+<details>
+<summary>Direction for IMD</summary>
+<br>
+How can I transcode the cold war?
+
+How do the tensions of the cold war still rage on in todays society? How did the threats morph?
+</details>
+
+<details>
+<summary>First Transcode</summary>
+<br>
+
+America's current state of affairs in the gaming branch.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br><br>
 <h2>Old Artefacts and research</h2>
