@@ -352,11 +352,21 @@ Narrator tells you to do things, you can choose to ignore it. Narration of a Sto
 
 
 <details>
+<summary>Cold War</summary>
+<br>
+The Cold War was a period of geopolitical tension between the Soviet Union and the United States and their respective allies, the Eastern Bloc and the Western Bloc, after World War II. The period is generally considered to span the 1947 Truman Doctrine to the 1991 dissolution of the Soviet Union. The term "cold" is used because there was no large-scale fighting directly between the two superpowers, but they each supported major regional conflicts known as proxy wars. The conflict was based around the ideological and geopolitical struggle for global influence by the two powers, following their temporary alliance and victory against Nazi Germany in 1945. The doctrine of mutually assured destruction (MAD) discouraged a pre-emptive attack by either side. Aside from the nuclear arsenal development and conventional military deployment, the struggle for dominance was expressed via indirect means such as psychological warfare, propaganda campaigns, espionage, far-reaching embargoes, rivalry at sports events and technological competitions such as the Space Race.
+
+*So I have a good amount of entry points to make transcodings about: Western vs Eastern block, proxy wars, temporary alliance, Nuclear Arms Race(Coding direction), Military deployment, struggle of dominance, psychological warfare, propaganda campaigns, espionage and Space Race, to name a few.*
+
+</details>
+
+
+<details>
 <summary>Direction for IMD</summary>
 <br>
 How can I transcode the cold war?
 
-How do the tensions of the cold war still rage on in todays society? How did the threats morph?
+How do the tensions of the cold war still rage on in todays society? How did the threats morph from back then to now?
 </details>
 
 <details>
