@@ -252,29 +252,29 @@ I found a boardgame which portrays stalin, the metadata mentions Czech republic,
 <summary>Russia, Stalin and Propaganda</summary>
 <br>
 
-        [Stalin's lifehacks: How to ruthlessly take power and get away with it](https://www.rbth.com/history/330225-joseph-stalin-rise-power-politics)
+[Stalin's lifehacks: How to ruthlessly take power and get away with it](https://www.rbth.com/history/330225-joseph-stalin-rise-power-politics)
 
-        [Stalin rubble throws into focus Czechs' 20th-century struggles](https://www.theguardian.com/world/2018/sep/30/stalin-rubble-throws-into-focus-czechs-20th-century-struggles)
+[Stalin rubble throws into focus Czechs' 20th-century struggles](https://www.theguardian.com/world/2018/sep/30/stalin-rubble-throws-into-focus-czechs-20th-century-struggles)
 
-        [List of statues of Stalin](https://en.wikipedia.org/wiki/List_of_statues_of_Stalin)
+[List of statues of Stalin](https://en.wikipedia.org/wiki/List_of_statues_of_Stalin)
 
-        [Propaganda in the Soviet Union](https://en.wikipedia.org/wiki/Propaganda_in_the_Soviet_Union)
+[Propaganda in the Soviet Union](https://en.wikipedia.org/wiki/Propaganda_in_the_Soviet_Union)
 
-        [Propaganda through media](https://en.wikipedia.org/wiki/Propaganda_through_media)
+[Propaganda through media](https://en.wikipedia.org/wiki/Propaganda_through_media)
 
-        [How was propaganda used in World War One?](https://www.bbc.co.uk/bitesize/topics/zqhyb9q/articles/zhw3jhv)
+[How was propaganda used in World War One?](https://www.bbc.co.uk/bitesize/topics/zqhyb9q/articles/zhw3jhv)
 
-        [Visual Essay: The Impact of Propaganda](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-6/visual-essay-impact-propaganda)
+[Visual Essay: The Impact of Propaganda](https://www.facinghistory.org/holocaust-and-human-behavior/chapter-6/visual-essay-impact-propaganda)
 
-        [Joseph Stalin & Soviet Propaganda: Techniques & Examples - Video & Lesson Transcript | Study.com](https://study.com/academy/lesson/joseph-stalin-soviet-propaganda-techniques-examples.html)
+[Joseph Stalin & Soviet Propaganda: Techniques & Examples - Video & Lesson Transcript | Study.com](https://study.com/academy/lesson/joseph-stalin-soviet-propaganda-techniques-examples.html)
 
-        **What forms of propaganda did Stalin use?**
+**What forms of propaganda did Stalin use?**
 
-        Soviet **propaganda** under **Stalin** was dominated by socialist realism, a particular **form of propaganda** disguised as art that glorified the Soviet state and party, its workers, and depicted scenes from everyday life.
+Soviet **propaganda** under **Stalin** was dominated by socialist realism, a particular **form of propaganda** disguised as art that glorified the Soviet state and party, its workers, and depicted scenes from everyday life.
 
-        Statues of Stalin
+Statues of Stalin
 
-        I am looking for a story to visualise in my game about propaganda and Stalin.
+I am looking for a story to visualise in my game about propaganda and Stalin.
 </details>
 
 <details>
