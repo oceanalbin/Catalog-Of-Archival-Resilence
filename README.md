@@ -16,8 +16,6 @@ https://www.notion.so/Catalog-Of-Archival-Resilence-8a46df8c806d46ac82a72ad8cd04
 
   - Gaming as a way to spread your ideals/propaganda
 
-  - Gaming as a way of transporting your propaganda
-
   -  Desperate to escape the unrelenting nature of a corporial existence
   [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
@@ -175,7 +173,7 @@ John rafman codes of horror
 
 
 <details>
-<summary>Notes 9 March</summary>
+<summary>Notes 9 March(IMD)</summary>
 What it is what Im doing?
 
 Experiment nr1/Transcoding nr1
@@ -243,10 +241,21 @@ I found a boardgame which portrays stalin, the metadata mentions Czech republic,
 
 [https://search.iisg.amsterdam/Record/1037527](https://search.iisg.amsterdam/Record/1037527)
 </details>
-
-
 </details>
 
+<details>
+<summary>Notes 16 March(Coding)</summary>
+<br>
+Using C# Unity – Huge Abstract Boardgames
+Different ideologies
+A tool to analise other games use of Propaganda
+Archiving a war experience—> Be a hero within this history
+Only talking about specific army games and their ideology.
+Games try to archive a feeling
+
+Moniker examples
+Rules, game, ideology, agenda
+</details>
 
 <details>
 <summary>Russia, Stalin and Propaganda</summary>
@@ -277,19 +286,6 @@ Statues of Stalin
 I am looking for a story to visualise in my game about propaganda and Stalin.
 </details>
 
-<details>
-<summary>Notes 16 March(Coding)</summary>
-<br>
-Using C# Unity – Huge Abstract Boardgames
-Different ideologies
-A tool to analise other games use of Propaganda
-Archiving a war experience—> Be a hero within this history
-Only talking about specific army games and their ideology.
-Games try to archive a feeling
-
-Moniker examples
-Rules, game, ideology, agenda
-</details>
 
 <details>
 <summary>Notes 30 March(Coding)</summary>
