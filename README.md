@@ -11,17 +11,17 @@ https://www.notion.so/Catalog-Of-Archival-Resilence-8a46df8c806d46ac82a72ad8cd04
 <br>
 Check if someone knows about the movement
 
-— Some bystanders have heard of it, as far as the receptionist knew nobody knew where it came from.
+*Some bystanders have heard of it, as far as the receptionist knew nobody knew where it came from.*
 
 Why does the archive have this collection?
 
-— Not a specific answer, could be added with other collections.
+*Not a specific answer, could be added with other collections.*
 
 *Ik vermoed daarom dat veel hiervan direct aan het IISG is overgedragen, misschien door een loge, of door individuele leden. Sommigen van de vele speldjes kunnen ons ook nog langs een andere weg bereikt hebben, bijvoorbeeld via het persoonsarchief van iemand die toevallig lid was, of als losse schenking. Om privacyredenen vermelden we dit vaak niet. — IISG*
 
 Why does this needs to be archived?
 
-— No clear answer, something along the lines of it being an old organisation, which had an impact/mission in the history.
+*No clear answer, something along the lines of it being an old organisation, which had an impact/mission in the history.*
 
 Framing a position towards it.
 
@@ -43,10 +43,6 @@ Commercial, propaganda
 </details>
 
 
-    -
-
-
-
     Gaming as a connection with others (bindingsmiddel)
 
     Gaming as an addiction
@@ -57,53 +53,57 @@ Commercial, propaganda
 
     [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
-    - Questions and stuff from 17/20feb
+    <details>
+    <summary>Questions and stuff from 17/20feb</summary>
+    <br>
+    Analysis of the medium
 
-        Analysis of the medium
+    Game can be a system
 
-        Game can be a system
+    Evidence based policy
 
-        Evidence based policy
+    Look from within the artefact
 
-        Look from within the artefact
+    Material aspect/Production
 
-        Material aspect/Production
+    Social Context is less important
 
-        Social Context is less important
+    What is the essence of the object
 
-        What is the essence of the object
+    What kind of game is it: Commercial, propaganda, etc...
 
-        What kind of game is it: Commercial, propaganda, etc...
+    How does your artefact relate to a topic?
 
-        How does your artefact relate to a topic?
+    What is my position in this topic?
 
-        What is my position in this topic?
+    What is their agenda?
 
-        What is their agenda?
+    Active communicating(big production)
 
-        Active communicating(big production)
+    Why do I want to make it resiliance
 
-        Why do I want to make it resiliance
+    What is the relevance of this topic against other topics?
 
-        What is the relevance of this topic against other topics?
+    Or is it in the object itself?
 
-        Or is it in the object itself?
+    Abstinence is their topic
 
-        Abstinence is their topic
+    What is mine towards this topic
 
-        What is mine towards this topic
+    Look at the meta data
 
-        Look at the meta data
+    What is the social context, which is not in the archive, related to the city, how did it look back then?
 
-        What is the social context, which is not in the archive, related to the city, how did it look back then?
+    How does the game function in the real world?
 
-        How does the game function in the real world?
+    Predefine a topic
 
-        Predefine a topic
+    What are the first things I think of?
 
-        What are the first things I think of?
+    What would you do with your object if the building caught fire?
+    </details>
 
-        What would you do with your object if the building caught fire?
+    -
 
     Gaming as a way to spread your ideals/propaganda
 
@@ -111,8 +111,10 @@ Commercial, propaganda
 
     # Bingo Research (analysis of the medium)
 
-    ## What is Bingo?
 
+    <details>
+    <summary>## What is Bingo?</summary>
+    <br>
     A game which dates back to 1530 in Italy, the standardised version dates back to 1920's America.
 
     In the United States, Bingo is a game of chance in which each player matches numbers printed in different arrangements on cards which the numbers the game host (caller) draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play.
@@ -158,54 +160,62 @@ Commercial, propaganda
     [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
 
     ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png)
+    </details>
 
-    ### Propaganda in video games
 
-    [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
-    The person on the podcast tells how all of his life he is forced by big shooter games to see his own nation as terrorists. In the game the metal gear solid which is set in afghanistan he goes in game to the place he used to live and finds his father and brother.
 
-    For instance Epic Games made a statement they do not want to convey political messages
+    <details>
+<summary>### Propaganda in video games</summary>
+<br>
+[Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
-    [Seven video games that also serve as propaganda](https://caravanmagazine.in/vantage/seven-video-games-also-serve-propaganda)
+The person on the podcast tells how all of his life he is forced by big shooter games to see his own nation as terrorists. In the game the metal gear solid which is set in afghanistan he goes in game to the place he used to live and finds his father and brother.
 
-    Games as a tool for recruiting for the army and spreading negative message about other nationalities.
+For instance Epic Games made a statement they do not want to convey political messages
 
-    > America’s Army was released by the US Army on 4 July 2002 and, up until now, 41 versions of the game have been released in total, all financed by the US government and available for free download. The game is a recruitment tool, and each version has two parts: Operations, in which the player battles opponents in a first-person shooter mode, and Soldiers, in which the player advances up the various ranks.
+[Seven video games that also serve as propaganda](https://caravanmagazine.in/vantage/seven-video-games-also-serve-propaganda)
 
-    [Video Games Can Be a Powerful Force for Propaganda](https://medium.com/war-is-boring/video-games-can-be-a-powerful-force-for-propaganda-983d48da702b)
+Games as a tool for recruiting for the army and spreading negative message about other nationalities.
 
-    > Video games are an industry worth tens of billions of dollars. These interactive games make more money than Hollywood and the music industry combined. Video games can be great fun and even great art, but they can also make for great propaganda.
+> America’s Army was released by the US Army on 4 July 2002 and, up until now, 41 versions of the game have been released in total, all financed by the US government and available for free download. The game is a recruitment tool, and each version has two parts: Operations, in which the player battles opponents in a first-person shooter mode, and Soldiers, in which the player advances up the various ranks.
 
-    [](https://pcijstoryproject.org/exploring-the-use-of-video-games-as-propaganda-87833eede6e4)
+[Video Games Can Be a Powerful Force for Propaganda](https://medium.com/war-is-boring/video-games-can-be-a-powerful-force-for-propaganda-983d48da702b)
 
-    [Metal Wolf Chaos](https://en.wikipedia.org/wiki/Metal_Wolf_Chaos)
+> Video games are an industry worth tens of billions of dollars. These interactive games make more money than Hollywood and the music industry combined. Video games can be great fun and even great art, but they can also make for great propaganda.
 
-    > Metal Wolf Chaos is a third-person shooter video game developed and published by FromSoftware. It was released for the Xbox exclusively in Japan in 2004. The player takes on the role of fictional President of the United States Michael Wilson piloting a mech to battle the rebelling military led by fictional Vice President Richard Hawk.
+[](https://pcijstoryproject.org/exploring-the-use-of-video-games-as-propaganda-87833eede6e4)
 
-    [The 10 political games everyone should play](https://www.theguardian.com/technology/gamesblog/2006/oct/26/tenseriousgam)
+[Metal Wolf Chaos](https://en.wikipedia.org/wiki/Metal_Wolf_Chaos)
 
-    Multiple games with political statements.
+> Metal Wolf Chaos is a third-person shooter video game developed and published by FromSoftware. It was released for the Xbox exclusively in Japan in 2004. The player takes on the role of fictional President of the United States Michael Wilson piloting a mech to battle the rebelling military led by fictional Vice President Richard Hawk.
 
-    Abstinence
+[The 10 political games everyone should play](https://www.theguardian.com/technology/gamesblog/2006/oct/26/tenseriousgam)
 
-    **The urgency of preserving this object**
+Multiple games with political statements.
 
-    Not because of this object, but because of its topic.
+Abstinence
 
-    - Streamers
+**The urgency of preserving this object**
 
-        Streamers I sometimes check out, they have a big followers base. They have a chatbox where all the people who follow their stream can chat together, this is most of the times a big stream of messages.  
+Not because of this object, but because of its topic.
 
-        ![Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg](Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg)
+- Streamers
 
-        ![Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg](Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg)
+    Streamers I sometimes check out, they have a big followers base. They have a chatbox where all the people who follow their stream can chat together, this is most of the times a big stream of messages.  
 
-        ![Catalog%20Of%20Archival%20Resilence/download.jpeg](Catalog%20Of%20Archival%20Resilence/download.jpeg)
+    ![Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg](Catalog%20Of%20Archival%20Resilence/https___blogs-images.forbes.com_insertcoin_files_2018_03_ninja-stream.jpg)
 
-    John rafman codes of horror
+    ![Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg](Catalog%20Of%20Archival%20Resilence/C9spQFDXcAAXPRP.jpg)
 
-    [https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
+    ![Catalog%20Of%20Archival%20Resilence/download.jpeg](Catalog%20Of%20Archival%20Resilence/download.jpeg)
+
+John rafman codes of horror
+
+[https://www.youtube.com/watch?v=4WPZbwDHz-0](https://www.youtube.com/watch?v=4WPZbwDHz-0)
+</details>
+
+
 
     - Notes/questions 9 March
 
