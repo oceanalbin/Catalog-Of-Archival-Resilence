@@ -374,7 +374,7 @@ How do the tensions of the cold war still rage on in todays society? How did the
 <br>
 
 
-First transcoding, to get the ball rolling. A mindmap about America's current state of affairs in the gaming branch with ties to propaganda.
+First transcoding, to get the ball rolling. A mindmap about America's current state of affairs in the gaming branch with ties to propaganda. This is from my research about propaganda in videogames, focussed on Americas military recruitment tools.
 ![Catalog%20Of%20Archival%20Resilence/USA.jpg](Catalog%20Of%20Archival%20Resilence/USA.jpg)
 
 
