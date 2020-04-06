@@ -386,7 +386,7 @@ First transcoding, to get the ball rolling. A mindmap about America's current st
 
 Making a boardgame in 3D environment, like Cinema4D.
 
-Abstract Socialist Realism scenarios, like Proxy wars, Nuclear Arms Race, Space Race.
+Abstract Socialist Realism scenarios, like Proxy wars, Nuclear Arms Race, Space Race.(textures, blocky forms)
 
 Tensions between America and Russia
 Video work, nuclear arms race.
