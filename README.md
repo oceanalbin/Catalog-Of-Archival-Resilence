@@ -399,6 +399,7 @@ Western vs Eastern block, proxy wars, temporary alliance, Nuclear Arms Race(Codi
 <summary>Notes 6 April</summary>
 <br>
 What do I want to let the public see or understand from my work?
+I want to retell the Cold War and highlight parts of it which I think are interesting.
 Installation? Aspect of Format
 What is my intention: To visualise the Cold War.
 </details>
