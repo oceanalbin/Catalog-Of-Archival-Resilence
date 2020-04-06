@@ -199,13 +199,16 @@ Talk with my grandmother about Kienspellen
 </details>
 
 <details>
-<summary>Alternative Artefact — Boardgames with possible ties to propaganda</summary>
+<summary>New Artefact — Boardgames with possible ties to propaganda</summary>
 <br>
 
 ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.36.png)
 
 I found a boardgame which portrays stalin, the metadata mentions Czech republic, so I am continuing my propaganda in boardgame research with this piece. [https://search.iisg.amsterdam/Record/1152336](https://search.iisg.amsterdam/Record/1152336)
 
+<details>
+<summary>Alternative Artefacts</summary>
+<br>
 ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.18.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.18.png)
 
 ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.27.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-16_at_09.07.27.png)
@@ -239,6 +242,9 @@ I found a boardgame which portrays stalin, the metadata mentions Czech republic,
 [https://search.iisg.amsterdam/Record/1037521](https://search.iisg.amsterdam/Record/1037521)
 
 [https://search.iisg.amsterdam/Record/1037527](https://search.iisg.amsterdam/Record/1037527)
+</details>
+
+
 </details>
 
 
