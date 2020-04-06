@@ -5,6 +5,14 @@ Tags: ARCHIVE
 https://www.notion.so/Catalog-Of-Archival-Resilence-8a46df8c806d46ac82a72ad8cd045ec0
 
 - **Gaming Research**
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
+
     - Questions to ask at IISG and General
 
         Check if someone knows about the movement
