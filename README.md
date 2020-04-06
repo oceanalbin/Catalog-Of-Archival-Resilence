@@ -52,9 +52,9 @@ Useless hobby? Or ways to comprehend the real world/trauma
 Desperate to escape the unrelenting nature of a corporial existence
 [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
-    <details>
-    <summary>Questions and stuff from 17-20feb</summary>
-    <br>
+<details>
+<summary>Questions and stuff from 17-20feb</summary>
+<br>
     Analysis of the medium
 
     Game can be a system
@@ -100,9 +100,9 @@ Desperate to escape the unrelenting nature of a corporial existence
     What are the first things I think of?
 
     What would you do with your object if the building caught fire?
-    </details>
+</details>
 
-    
+
 
     Gaming as a way to spread your ideals/propaganda
 
