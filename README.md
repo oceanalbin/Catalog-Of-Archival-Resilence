@@ -109,11 +109,9 @@ Commercial, propaganda
     Gaming as a way of transporting your propaganda
 
     # Bingo Research (analysis of the medium)
-
-
-    <details>
-    <summary>## What is Bingo?</summary>
-    <br>
+<details>
+<summary>## What is Bingo?</summary>
+<br>
     A game which dates back to 1530 in Italy, the standardised version dates back to 1920's America.
 
     In the United States, Bingo is a game of chance in which each player matches numbers printed in different arrangements on cards which the numbers the game host (caller) draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play.
@@ -159,12 +157,12 @@ Commercial, propaganda
     [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
 
     ![Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png](Catalog%20Of%20Archival%20Resilence/Screen_Shot_2020-03-02_at_11.58.54.png)
-    </details>
+</details>
 
 
 
 
-    <details>
+<details>
 <summary>### Propaganda in video games</summary>
 <br>
 [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
